@@ -1,0 +1,17 @@
+p{
+	margin-left: 1.66%;
+	font-size: 2.6vw; /*makes font-size responsive*/
+	font-family: 'Tenor Sans', sans-serif;
+	border-bottom: 2px solid rgba(87, 99, 119, 0.2);
+	width: 30%;
+	padding: 0.5em 0;
+	vertical-align: middle;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
